@@ -2,6 +2,9 @@
 
 A Quarkus demo app to consume a SOAP service using rest client.
 
+[Article link on medium](https://mohammed-waris84.medium.com/quarkus-consume-a-soap-service-using-rest-client-1f893cb60644)
+
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
